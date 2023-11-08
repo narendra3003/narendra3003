@@ -1,5 +1,8 @@
-### Hi there 👋
+<h3 align = "center">Hello there! My name is Narendra Dukhande and I'm currently a second year enginnering student in Information Technology at Mumbai University.</h3>
+<br>
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=narendra3003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 **narendra3003/narendra3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
