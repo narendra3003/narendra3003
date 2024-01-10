@@ -13,6 +13,6 @@ I'm a passionate Programmer with a keen interest in Inner Workings of API's. I l
 <p><img  src="https://github-readme-stats.vercel.app/api?username=narendra3003&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="narendra3003" /></p>
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=narendra3003&theme=dark&hide_border=false" alt="narendra3003" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=narendra3003&theme=dark&hide_border=false" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendra3003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="narendra3003" /></p>
