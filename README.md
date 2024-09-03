@@ -2,7 +2,7 @@
 
 ## About Me
 <b4>Hello there! My name is Narendra Dukhande and I'm currently a second year student in IT engineering at Mumbai University.
-I'm a passionate Programmer with a keen interest in Inner Workings of API's. I love to solve problems and learn new technologies.<b4/>
+I'm a passionate Programmer with a keen interest in Back-end stacks and Database administration. I love to solve problems and learn new technologies.<b4/>
 
 
 ## 🌐 Connect me On:
