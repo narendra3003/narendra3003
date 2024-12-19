@@ -6,7 +6,7 @@ I'm a passionate Programmer with a keen interest in Back-end stacks and Database
 
 
 ## 🌐 Connect me On:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-dukhande-96152a281)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-dukhande/)
 
 ## 📊 GitHub Stats:
 
