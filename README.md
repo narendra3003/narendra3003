@@ -1,7 +1,7 @@
 # Hello, I'm Narendra Dukhande 👋
 
 ## About Me
-<b4>Hello there! My name is Narendra Dukhande and I'm currently a second year student in IT engineering at Mumbai University.
+<b4>Hello there! My name is Narendra Dukhande and I'm currently a third year student in IT engineering at Mumbai University.
 I'm a passionate Programmer with a keen interest in Back-end stacks and Database administration. I love to solve problems and learn new technologies.<b4/>
 
 
