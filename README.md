@@ -31,7 +31,8 @@ Always excited for **new challenges, collaborations, and opportunities** to make
 ## Achievements  
 
 - 🥇 **Winner - DBIT Innoquest 2023** *(1st Prize, SE-IT Division)*  
-- 🏆 **1st Place - ACM-Naukri Contest** *(DBIT-ACM Event)*  
+- 🏆 **1st Place - ACM-Naukri Contest** *(DBIT-ACM Event)*
+- 🏆 **2nd Place - Debugg-a-thon 2025** *(GDGC-PCE Event)*  
 - 🌟 **Top 30% in LinkedIn’s Python Skill Assessment**  
 
 [**🕹️ Memory Game**](https://narendra3003.github.io/memory-game/) *(An interactive project showcasing logic and UI skills)*  
