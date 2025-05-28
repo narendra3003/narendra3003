@@ -3,7 +3,7 @@
 **DSA Mentor | Full-Stack Developer | AI & Data Science Enthusiast**  
 
 📍 **Thane (W), Maharashtra**  
-🌐 [Portfolio Website](https://narendra3003.github.io/profile/) | 🔗 [LinkedIn](https://linkedin.com/in/narendra-dukhande)  
+🌐 [Portfolio Website](https://narendra-dukhande-profile.vercel.app/) | 🔗 [LinkedIn](https://linkedin.com/in/narendra-dukhande)  
 💻 [GitHub](https://github.com/narendra3003) | 📌 [Coding Profiles](https://codolio.com/profile/narendra3003)  
 
 ---
