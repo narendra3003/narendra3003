@@ -51,6 +51,11 @@ A **user-friendly** app to track **daily expenses**, set **budgets**, and monito
 A **cloud-backed sync and backup tool** with selective sync features.  
 - 🔄 **Impact:** Increased user control by **70%** with **pause**, **delete**, and **selective sync** options.  
 
+### 🎯 [CodeBreaker - Mastermind Game with AI Solvers](https://github.com/narendra3003/CodeBreaker)  
+**Tech Stack:** Python, Tkinter, PyInstaller, Algorithm Design  
+A Mastermind-inspired game with a **GUI**, **solver bots (Random, Knuth, Entropy)**, **probability-based hints**, and **performance benchmarking**.
+Showcases **UI/UX design**, **AI strategies**, and **systematic benchmarking** in game mechanics.
+
 ---
 
 ## Let’s Build & Solve Together  
